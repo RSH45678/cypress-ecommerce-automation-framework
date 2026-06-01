@@ -1,0 +1,11 @@
+{
+  "name": "cypress-ecommerce-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cypress open",
+    "headless": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
